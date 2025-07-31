@@ -2,11 +2,14 @@
 
 Este projeto utiliza as seguintes tecnologias principais:
 
-- **HTML**  
-  Linguagem de marcação utilizada para estruturar o conteúdo das páginas web.
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)  
+**HTML**  
+Linguagem de marcação para estruturar o conteúdo da web.
 
-- **CSS**  
-  Folhas de estilo em cascata para estilização e layout das páginas, definindo cores, fontes, espaçamentos e responsividade.
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)  
+**CSS**  
+Folhas de estilo para definir aparência e layout.
 
-- **JavaScript**  
-  Linguagem de programação que permite a criação de interatividade, manipulação do DOM e comportamento dinâmico nas páginas web.
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
+**JavaScript**  
+Linguagem para adicionar interatividade e comportamentos dinâmicos.
